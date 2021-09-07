@@ -1,0 +1,13 @@
+[remap]
+
+importer="com.technohacker.pixelorama"
+type="StreamTexture"
+path="res://.import/Energy Shield.pxo-fd063906df58c103d531c906b205b474.stex"
+
+[deps]
+
+source_file="res://Energy Shield/Energy Shield.pxo"
+dest_files=[ "res://.import/Energy Shield.pxo-fd063906df58c103d531c906b205b474.stex" ]
+
+[params]
+
